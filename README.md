@@ -1,6 +1,6 @@
 successful(?) logger
 
-stuff.java contains a script for retriving the files from the roborio
+stuff.java contains a script for writing and retriving the files from the roborio
 
 https://www.codejava.net/java-se/ftp/java-ftp-file-download-tutorial-and-example
 https://docs.wpilib.org/en/stable/docs/software/roborio-info/roborio-ftp.html
