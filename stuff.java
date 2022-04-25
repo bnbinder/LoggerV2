@@ -34,9 +34,9 @@ public class stuff {
 
     public void robotInitPlsWork()
     {
-        //goodMorning();
         //writeToSystem();// may not have to do this
-        //writeToRio(); // do this once then never again
+        goodMorning();
+        writeToRio("hello"); // do this once then never again
         ftpShit();
     }
 
