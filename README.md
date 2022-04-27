@@ -1,6 +1,6 @@
 successful(?) logger
 
-stuff.java contains a script for writing and retriving the files to and from the roborio. If one knows how to access files on the roborio and send them to a computer from the roborio, pls give code :)
+stuff.java contains a script for writing and retriving the files to and from the roborio.
 
 how 2 run
 - change stuff.java so teamNumber = roborio team number
