@@ -1,4 +1,4 @@
-successful(?) logger
+successful logger
 
 stuff.java contains a script for writing and retriving the files to and from the roborio.
 
