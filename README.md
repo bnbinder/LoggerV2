@@ -2,7 +2,7 @@ successful logger
 
 stuff.java contains a script for writing and retriving the files to and from the roborio.
 
-how 2 run
+how to run
 - change stuff.java so teamNumber = roborio team number
 - run the start main function on the computer (roborio needs to be on and have valid ftp connection)
 - i dont know if it will break ur computer, roborio, or you, so have caution
